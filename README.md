@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @dmorrish
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me: say my name three times while looking into a mirror ... then text me.
+Hi, I’m Deryk and you're not.
 
 <!---
 dmorrish/dmorrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
